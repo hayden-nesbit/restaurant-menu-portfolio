@@ -1,0 +1,7 @@
+#hero {
+    background-image: url("./jay-wennington-N_Y88TWmGwA-unsplash.jpg");
+    background-size: cover;
+    min-height: 600px;
+    position: sticky;
+    background: 0,0,0,0.5;
+}

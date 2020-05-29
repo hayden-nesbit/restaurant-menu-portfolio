@@ -1,0 +1,12 @@
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+    text: white;
+    min-height: 200px;
+  }
+
+  footer {
+    background: black;
+  }
+  

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-menu/static/css/main.69f1d03b.chunk.css",
+    "main.js": "/react-menu/static/js/main.120a1e73.chunk.js",
+    "main.js.map": "/react-menu/static/js/main.120a1e73.chunk.js.map",
+    "runtime-main.js": "/react-menu/static/js/runtime-main.d4d37688.js",
+    "runtime-main.js.map": "/react-menu/static/js/runtime-main.d4d37688.js.map",
+    "static/css/2.89f067aa.chunk.css": "/react-menu/static/css/2.89f067aa.chunk.css",
+    "static/js/2.d73761ee.chunk.js": "/react-menu/static/js/2.d73761ee.chunk.js",
+    "static/js/2.d73761ee.chunk.js.map": "/react-menu/static/js/2.d73761ee.chunk.js.map",
+    "index.html": "/react-menu/index.html",
+    "precache-manifest.d32bab57ea700c95199a3fe2534afb06.js": "/react-menu/precache-manifest.d32bab57ea700c95199a3fe2534afb06.js",
+    "service-worker.js": "/react-menu/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/react-menu/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.69f1d03b.chunk.css.map": "/react-menu/static/css/main.69f1d03b.chunk.css.map",
+    "static/js/2.d73761ee.chunk.js.LICENSE.txt": "/react-menu/static/js/2.d73761ee.chunk.js.LICENSE.txt",
+    "static/media/Halloranns(2).svg": "/react-menu/static/media/Halloranns(2).e976affb.svg",
+    "static/media/Halloranns_name only(1).svg": "/react-menu/static/media/Halloranns_name only(1).5275eec0.svg",
+    "static/media/Hallorannslogo.svg": "/react-menu/static/media/Hallorannslogo.d69db9ad.svg",
+    "static/media/Jumbotron.css": "/react-menu/static/media/jay-wennington-N_Y88TWmGwA-unsplash.c9aad365.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4d37688.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.d73761ee.chunk.js",
+    "static/css/main.69f1d03b.chunk.css",
+    "static/js/main.120a1e73.chunk.js"
+  ]
+}
